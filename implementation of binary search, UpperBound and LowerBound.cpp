@@ -126,7 +126,7 @@ int LowerBound(int arr[], int n, int target)
 
 
 //2nd type of implementation(recommended)
-
+//The following two functions (upperBound(), lowerBound()) are tested and verified at leetcode
 void binary_src(int arr[], int n, int target)
 {
     int l = 0;
